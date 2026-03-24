@@ -1,0 +1,6 @@
+[submodule "nuvcoder"]
+	path = nuvcoder
+	url = git@github.com:wuwanxin/nuvcoder.git
+[submodule "spdk"]
+	path = spdk
+	url = git@github.com:wuwanxin/spdk.git
